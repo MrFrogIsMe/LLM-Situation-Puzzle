@@ -1,0 +1,80 @@
+[
+  {
+    "id": "P000",
+    "difficulty": "medium",
+    "image": "images/cellImage_0_0.jpg",
+    "image_prompt": "Photorealistic lighthouse at dawn on rocky coastline, multiple shipwrecks and floating debris visible in foggy sea, lighthouse beacon unlit, warm sunrise light contrasting with dark water, no people visible, no text overlay, cinematic wide shot",
+    "question": "男子為什麼跳樓了？",
+    "answer": {
+      "full": "這名男子是燈塔的管理員。那天晚上，他因為一時疏忽，忘記自己身處燈塔，像在家裡睡前關燈一樣，隨手關掉了燈塔巨大的探照燈。由於當晚海象極差且霧大，失去了燈塔指引的多艘商船不幸撞上礁石沉沒，造成數百人死亡。隔天一早，男子看到海面上漂浮著大量的船隻殘骸與屍體，意識到這全是自己的一時疏忽所造成的慘劇，他在極度的內疚與罪惡感下，選擇跳樓自殺。",
+      "keywords": [
+        "男子是燈塔管理員",
+        "關閉探照燈",
+        "船撞到礁石多人罹難",
+        "男子自殺"
+      ]
+    }
+  },
+  {
+    "id": "P001",
+    "difficulty": "easy",
+    "image": "images/cellImage_0_1.jpg",
+    "image_prompt": "Photorealistic elevator interior showing button panel with floors 1 to 12, lower buttons worn, upper buttons pristine, a folded umbrella propped against the wall, overhead fluorescent light, no people, no text overlay, clean minimalist style",
+    "question": "男子為什麼不搭電梯？",
+    "answer": {
+      "full": "這名男子患有侏儒症，身材非常矮小。出門時，1 樓的按鈕在最下面，他夠得著。回家時，12 樓的按鈕太高了，他最高只能按到 9 樓。如果電梯裡有其他人，他可以請人幫忙按 12 樓；如果當天下雨，他手裡會拿著雨傘，就可以用雨傘柄去戳 12 樓的按鈕。",
+      "keywords": [
+        "男子身材矮小",
+        "按不到自己樓層的按鈕",
+        "雨傘或他人協助才能到達"
+      ]
+    }
+  },
+  {
+    "id": "P002",
+    "difficulty": "easy",
+    "image": "images/cellImage_0_2.jpg",
+    "image_prompt": "Photorealistic dimly lit public playground at dusk, a child's figure hanging from a swing rope gently swaying in the wind, unnatural limp posture, deserted park, long shadows, unsettling quiet atmosphere, no text overlay, cinematic lighting",
+    "question": "路人為什麼要報警？",
+    "answer": {
+      "full": "那天傍晚，一名路人走過公園，遠遠看見一個小孩在鞦韆上一晃一晃的，起初還覺得可愛。走近才發現，孩子的雙腳沒有踢地，眼神空洞，整個身體軟軟地垂著，隨著秋風輕輕搖擺。那根鞦韆的繩子纏在孩子的脖子上。路人當場嚇得腿軟，立刻撥打報警電話。",
+      "keywords": [
+        "鞦韆繩纏在脖子上",
+        "路人靠近察覺報警"
+      ]
+    }
+  },
+  {
+    "id": "P003",
+    "difficulty": "medium",
+    "image": "images/cellImage_0_3.jpg",
+    "image_prompt": "Photorealistic rainy evening urban street, dark car with rear door ajar, woman's legs partially inside car, red umbrella angled overhead from the direction of the camera covering both the photographer and woman, wet road reflecting streetlights, no faces visible, no text overlay, cinematic",
+    "question": "警察為什麼逮捕男子？",
+    "answer": {
+      "full": "如果男子是「路過拍照者」，他拍到的雨傘應該是向著車的方向偏斜（因為女人在掙扎）。但在照片中，雨傘卻是非常端正地遮住了女人的臉部與男子的上半身，且傘柄的握法明顯是從照片拍攝者的方向伸出去的。這證明了男子根本不是什麼路人，他當時一手撐傘遮住兩人的臉避開監視器，另一手強行將人拉入車內。他拍這張照片並報警，是為了製造自己是「目擊者」的假象來撇清嫌疑，卻忘了雨傘的物理角度出賣了他。",
+      "keywords": [
+        "男子聲稱自己是目擊者",
+        "照片中雨傘朝向拍攝者",
+        "雨傘遮蔽兩人臉部",
+        "拍照報警偽裝目擊者",
+        "男子才是綁架犯"
+      ]
+    }
+  },
+  {
+    "id": "P004",
+    "difficulty": "medium",
+    "image": "images/cellImage_0_4.jpg",
+    "image_prompt": "Photorealistic twilight beach path, young woman walking away from camera, back and shoulders showing large peeling sunburned skin with white flaky texture and exposed pink skin, dim evening light creating eerie visual effect, no text overlay, cinematic",
+    "question": "香蕉哥哥為什麼暈倒了？",
+    "answer": {
+      "full": "櫻桃姊姊皮膚非常嬌嫩，在海邊曬了一整天卻忘了塗防曬。回程時，她的肩膀與背部開始大面積脫皮。因為天色昏暗，加上海邊的白色鹽分沾在脫落的皮上，香蕉哥哥回頭一看，視覺錯覺讓他以為櫻桃姊姊的皮膚正在成片掉落、露出底下的「果肉」，他以為心愛的櫻桃姊姊像壞掉的水果一樣正在急速腐爛，驚嚇過度就暈過去了。",
+      "keywords": [
+        "海邊太陽大且忘塗防曬",
+        "背部大面積脫皮",
+        "昏暗中看似皮膚腐爛剝落",
+        "香蕉哥哥受驚暈倒"
+      ]
+    }
+  }
+]
