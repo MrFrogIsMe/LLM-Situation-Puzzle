@@ -1,0 +1,84 @@
+[
+  {
+    "id": "P010",
+    "difficulty": "medium",
+    "image": "images/cellImage_0_10.jpg",
+    "image_prompt": "Photorealistic eerie forest floor at night under a cloudy dark sky, mossy rotten tree logs and dead damp leaves, three land snails with round brown shells and two shell-less slugs crawling on the ground, leaving bright glowing neon green bioluminescent slime trails behind them, no text overlay, dim moody lighting, cinematic composition.",
+    "question": "這片森林究竟發生了什麼事？",
+    "answer": {
+      "full": "這片森林長年遭受有毒工業廢水污染，土壤中積累了大量螢光化學的工業毒素。當蝸牛在其中爬行時，身體吸收了毒素，導致其體表分泌出詭異的螢光黏液。這種強酸性毒素更會逐漸腐蝕並溶解牠們的蝸牛外殼，圖中失去外殼的「軟體蛞蝓」實際上是外殼已被完全溶解、危在旦夕的蝸牛。隨著毒素深入全身，這群生物最終都在枯木落葉間靜靜死去。多年後，人們循著殘留的發光痕跡找過去，只能在現場看見未被完全溶解的三個空殼。",
+      "keywords": [
+        "螢光黏液", 
+        "蝸牛外殼", 
+        "軟體蛞蝓", 
+        "工業毒素", 
+        "枯木落葉"]
+    }
+  },
+  {
+    "id": "P011",
+    "difficulty": "medium",
+    "image": "images/cellImage_0_11.jpg",
+    "image_prompt": "Photorealistic interior of a cozy bakery or cafe. In the foreground, a middle-aged woman with a horrified, panicked expression, holding her face in her hands and screaming with an open mouth. In the background, two young boys (one around 11 years old in a grey hoodie, one around 6 years old in a blue and white striped shirt) are sitting at a round wooden table, eating chocolate cake and looking at the screaming woman with confusion. Warm indoor lighting, shallow depth of field focusing on the woman's distressed expression.",
+    "question": "一位母親平靜地離開了。發生了什麼事？",
+    "answer": {
+      "full": "女子的兩個兒子在多年前的今天因車禍過世，當時他們分別穿著灰色帽T與條紋上衣。嚴重的創傷讓她患有精神解離。每年忌日，她都會來到這間店，點兩份巧克力蛋糕放在空桌上默默悼念。當天她轉身點餐時，店家誤以為該桌客人已離開，便將桌子清理並帶了新客人入座。新來的兩位陌生男孩剛好穿著灰色帽T與條紋衣，並點了店內招牌的巧克力蛋糕。女子回頭一見到這幅景象，創傷記憶瞬間觸發，讓她誤以為死去的兒子復活而驚叫出聲。隨後她走近看清這兩個陌生男孩的長相，理智回歸現實，意識到這只是一場巧合，於是平靜且絕望地付帳離開。",
+      "keywords": [
+        "灰色帽T", 
+        "條紋上衣", 
+        "巧克力蛋糕", 
+        "創傷記憶", 
+        "陌生男孩"]
+    }
+  },
+  {
+    "id": "P012",
+    "difficulty": "medium",
+    "image": "images/cellImage_0_12.jpg",
+    "image_prompt": "A creepy flashlight POV shot under a wooden bed frame. On the dusty wooden floorboards, a large, tangled clump of long black human hair mixed with grey dust and lint sits in the dark. The sharp beam of a flashlight illuminates the hair clump, casting eerie shadows on the white wall baseboard behind it. The atmosphere is suspenseful and disturbing.",
+    "question": "男子搬進新家後，第三十天他微笑著離開，發生了什麼事？",
+    "answer": {
+      "full": "男子本身是短髮且獨居，他第一天就發現這團不屬於自己的長髮。他沒有清理，反而將長髮當作標記，用來測試是否有人潛入。他注意到長髮上每天都混入新的灰色棉絮，且木地板上有細微移動的痕跡。這讓他確信，床底板藏有通往隔壁密室的夾層，有人每天趁他熟睡或出門時，從床底爬出來偷窺他的生活。男子默不作聲地觀察了三十天以掌握對方的作息規律。第三十天，他故意製造離開的假象，實則在暗處聯手警方，將再次從床底爬出的偷窺者當場逮捕，隨後微笑著退租離開。",
+      "keywords": [
+        "長髮標記", 
+        "灰色棉絮", 
+        "木地板痕跡", 
+        "床底夾層", 
+        "偷窺者"]
+    }
+  },
+  {
+    "id": "P013",
+    "difficulty": "hard",
+    "image": "images/cellImage_0_13.jpg",
+    "image_prompt": "Photorealistic science laboratory setting. A female scientist wearing a blue lab coat and light blue nitrile gloves is holding a clear petri dish, showing it to a young boy with brown hair in a blue and white striped shirt. The boy is pointing at the petri dish with interest. On the table, there is a silver tray containing a dissected small creature, a white microscope, and some laboratory papers. Clean and bright indoor lighting.",
+    "question": "男孩回家問媽媽：「我是從哪裡來的？」媽媽聽完痛哭。發生了什麼事？",
+    "answer": {
+      "full": "男孩的媽媽是一名高階基因工程學家，曾主導一項非法複製與跨物種基因融合的秘密計劃。桌上鐵盤裡被解剖的畸形怪魚，就是該計劃早期失敗的跨物種基因實驗產物。當天，反對該實驗的女科學家利用顯微鏡與培養皿，向男孩展示了那條怪魚的細胞切片，並告知男孩這與他體內的基因序列完全吻合。男孩似懂非懂，回家後便天真地詢問媽媽自己的由來。媽媽聽完痛哭，因為她意識到秘密已經洩漏，且她一直當作親生兒子撫養的男孩，實際上只是她親手在實驗室裡用怪魚基因複製出來的「非人實驗體」。",
+      "keywords": [
+        "藍色手套", 
+        "解剖怪魚", 
+        "基因複製", 
+        "細胞切片", 
+        "顯微鏡", 
+        "實驗產物", 
+        "培養皿"]
+    }
+  },
+  {
+    "id": "P014",
+    "difficulty": "medium",
+    "image": "images/cellImage_0_14.jpg",
+    "image_prompt": "A first-person, dark and moody close-up shot inside a dimly lit kitchen at night. A male hand with a wedding ring on one finger is dipping two fingers into a white ceramic sink filled with water, creating subtle ripples. In the background, a large glass window covered in rain droplets looks out onto a blurry, gloomy European city street with a few distant glowing streetlights under a dark, overcast sky.",
+    "question": "男子再也沒有醒來。發生了什麼事？",
+    "answer": {
+      "full": "男子患有嚴重的強迫症，每天睡前必須將手伸進廚房水槽，確認水溫與水龍頭是否關妥才能安心入睡。出差當晚深夜，外面正下著大雨，窗外視線極度昏暗。過度疲憊的男子在黑暗中沒有開燈，加上聽著雨聲分心，並未發現水槽裡裝的並不是平時的清水。那是妻子白天為了疏通嚴重堵塞的水管，而在水槽蓄滿的強效無色、無味化學劇毒疏通劑。男子在黑暗中摸索著將手浸入劇毒中，強烈毒素與腐蝕成分瞬間透過皮膚傷口迅速滲入血液，導致他當場毒發身亡，再也沒有醒來。",
+      "keywords": [
+        "廚房水槽", 
+        "強迫症行為", 
+        "下雨夜晚", 
+        "昏暗視線", 
+        "化學劇毒"]
+    }
+  }
+]
